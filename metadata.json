@@ -1,0 +1,6 @@
+{
+  "name": "IRCTC Reimagined",
+  "description": "A next-generation, mobile-first railway booking and travel platform redesign for Indian Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
